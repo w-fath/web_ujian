@@ -8,6 +8,6 @@ class InfoController extends Controller
 {
     public function info()
     {
-        return view('auth.info');
+        return view('info');
     }
 }

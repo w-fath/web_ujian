@@ -1,4 +1,4 @@
-<x-app-layout>
+<x-admin-app-layout>
     <div class="app-content pt-3 p-md-3 p-lg-4">
         <div class="container-xl">
             <h1 class="app-page-title mb-4">{{ __('Profile') }}</h1>
@@ -50,4 +50,4 @@
             </div>
         </div>
     </div>
-</x-app-layout>
+</x-admin-app-layout>

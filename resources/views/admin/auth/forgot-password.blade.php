@@ -108,7 +108,7 @@
                         </form>
 
                         <div class="auth-option text-center pt-5">
-                            <a href="{{ route('login') }}"><i class="fas fa-long-arrow-alt-left text-link"></i>Kembali Ke Form Login</a>
+                            <a href="{{ route('login') }}"><i class="fas fa-long-arrow-alt-left"></i> Kembali Ke Form Login</a>
                         </div>
                     </div>
                 </div>
